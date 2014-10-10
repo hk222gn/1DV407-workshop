@@ -14,7 +14,6 @@ namespace BatklubbregisterWorkshop2.Controller
         MemberList mList;
         MemberView mv;
 
-        //TODO: Fundera, är våran controller för stor?
         public MemberHandler()
         {
             mList = new MemberList();
